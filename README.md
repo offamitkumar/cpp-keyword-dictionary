@@ -7,7 +7,9 @@ Installation:
 Just add this file to your vimrc as:
 
 ```
-set dictionary=$HOME/cpp-keyword-dictionary/cpp-words
+set dictionary=file-location-on-your-system/cpp-words
 ```
+
+click [here](https://github.com/offamitkumar/dot_files/blob/5bcc08d5271aa9f544c023ced5ac3e2068f1e0dd/.vimrc#L6) to see my config.
 
 __change file location if you didn't cloned this repo in you home directory__
